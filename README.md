@@ -13,4 +13,5 @@ Multi nodes Chat by UI and files interchange.
 <li>The models tested and compatibles with MeshGrid are 7B GGUF, the UI provide a interface with a list of top download models from Hugging Face, and is possible download each one with double click.</li>
 <li>The Status Panel in the console is a log of local events and show the Nodes of the Cache with the LLM active.</li>
 <li>The Chat Panel has a Principal, and you can to add more chat and change the name for either of it</li>
+<li> The Context Size is setted in 32k</li>
 </ul>
