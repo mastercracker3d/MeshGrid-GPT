@@ -1,6 +1,6 @@
 # MeshGrid-GPT
 GPT Chat with Local and Network Data Grid
-Initially the software was created for to interchange Files with the Chat Bot in TXT format.
+Initially the software was created for to interchange Files with the Chat Bot in TXT format, currently support multi nodes Chat by UI and files interchange.
 <ul>
 <li>The backend is GPT4ALL 2.7.0 and 2.7.1.</li>
 <li>The replication of data in memory is using Apache Ignite 2.16.0</li>
