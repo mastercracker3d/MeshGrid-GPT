@@ -16,10 +16,10 @@ Multi nodes Chat by UI and files interchange.
 <li>The Chat Panel has a Principal, and you can to add more chat and change the name for either of it</li>
 <li> The Context Size is setted in 32k</li>
 </ul>
-How to run:
-In the folder Binaries download: 
+Starting downloading from the folder Binaries 3 files: 
   <ol>
 <li>MeshGrid_GPT-v1.0.0.zip</li>
 <li>MeshGrid_GPT-v1.0.0.z01</li>
 <li>MeshGrid_GPT-v1.0.0.z02</li>
   </ol>
+  
