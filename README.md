@@ -22,4 +22,6 @@ Starting downloading from the folder Binaries 3 files:
 <li>MeshGrid_GPT-v1.0.0.z01</li>
 <li>MeshGrid_GPT-v1.0.0.z02</li>
   </ol>
+  Uncompress the folder in one or more Base folder.
+  Use JRE or JDK >=8 with JavaFX
   
