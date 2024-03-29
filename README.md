@@ -18,9 +18,9 @@ Multi nodes Chat by UI and files interchange.
 </ul>
 Starting downloading from the folder Binaries 3 files: 
   <ol>
-<li>MeshGrid_GPT-v1.0.0.zip</li>
-<li>MeshGrid_GPT-v1.0.0.z01</li>
-<li>MeshGrid_GPT-v1.0.0.z02</li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.0.0.z01">MeshGrid_GPT-v1.0.0.zip</a></li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.0.0.z01">MeshGrid_GPT-v1.0.0.z01</a></li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.0.0.z02">MeshGrid_GPT-v1.0.0.z02</a></li>
   </ol>
   Uncompress the folder in one or more Base folder.
   Use JRE or JDK >=8 with JavaFX
