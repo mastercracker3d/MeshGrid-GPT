@@ -31,4 +31,4 @@ Starting downloading from the folder Binaries 3 files:
   <h2>Principal Chat screen example</h2>
   <img src="images/PrincipalChat.png"/><br/>
   <h2>Multi Chat screen example</h2>
-  <img src="images/PrincipalChat.png"/><br/>
+  <img src="images/MultiChat.png"/><br/>
