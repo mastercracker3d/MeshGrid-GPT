@@ -1,5 +1,5 @@
 <img src="images/mc3d_logo.png"/><br/>
-# MeshGrid-GPT by MC3D
+# MeshGrid_GPT by MC3D
 <h2>GPT Chat with Local and Network Data Grid</h2>
 Multi nodes Chat by UI and files interchange.
 <ul>
