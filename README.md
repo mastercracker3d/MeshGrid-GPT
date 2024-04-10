@@ -26,6 +26,6 @@ Starting downloading from the folder Binaries 3 files:
   Use JRE or JDK >=8 with JavaFX<br/>
   <h2>Setup screen example</h2>
   <img src="images/Setup.png"/><br/>
-  <h2>Status of Grid screen example</h2>
+  <h2>Data Grid Status screen example</h2>
   <img src="images/Status.png"/><br/>
   
