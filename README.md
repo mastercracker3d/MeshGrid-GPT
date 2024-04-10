@@ -28,4 +28,7 @@ Starting downloading from the folder Binaries 3 files:
   <img src="images/Setup.png"/><br/>
   <h2>Data Grid Status screen example</h2>
   <img src="images/Status.png"/><br/>
-  
+  <h2>Principal Chat screen example</h2>
+  <img src="images/PrincipalChat.png"/><br/>
+  <h2>Multi Chat screen example</h2>
+  <img src="images/PrincipalChat.png"/><br/>
