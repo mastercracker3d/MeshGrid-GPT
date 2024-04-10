@@ -23,5 +23,7 @@ Starting downloading from the folder Binaries 3 files:
 <li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.0.z02">MeshGrid_GPT-v1.1.0.z02</a></li>
   </ol>
   Uncompress MeshGrid_GPT-v1.1.0.zip in one or more Base folder.<br/>
-  Use JRE or JDK >=8 with JavaFX
+  Use JRE or JDK >=8 with JavaFX<br/>
+  <h2>Setup screen example</h2>
+  <img src="images/Setup.png"/><br/>
   
