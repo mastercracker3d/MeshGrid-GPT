@@ -18,9 +18,10 @@ Multi nodes Chat by UI and files interchange.
 </ul>
 Starting downloading from the folder Binaries 3 files: 
   <ol>
-<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.1.zip">MeshGrid_GPT-v1.1.1.zip</a></li>
-<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.1.z01">MeshGrid_GPT-v1.1.1.z01</a></li>
-<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.1.z02">MeshGrid_GPT-v1.1.1.z02</a></li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.2.zip">MeshGrid_GPT-v1.1.2.zip</a></li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.2.z01">MeshGrid_GPT-v1.1.2.z01</a></li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.2.z02">MeshGrid_GPT-v1.1.2.z02</a></li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.2.z03">MeshGrid_GPT-v1.1.2.z03</a></li>
   </ol>
   Uncompress MeshGrid_GPT-v1.1.1.zip in one or more Base folder.<br/>
   Use JRE or JDK >=8<br/>
