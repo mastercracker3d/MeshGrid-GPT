@@ -1,6 +1,6 @@
 <img src="images/mc3d_logo.png"/><br/>
 # MeshGrid_GPT by <a href="http://wwww.mc3d.cl"/>MC3D</a><br/>
-<h2>GPT Chat with Local and Network Data Grid</h2>
+<h2>GPT Chat for private information</h2>
 Multi nodes Chat by UI and files interchange.
 <ul>
 <li>The backend is GPT4ALL 2.7.0.</li>
