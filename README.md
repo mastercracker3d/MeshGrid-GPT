@@ -3,7 +3,7 @@
 <h2>GPT Chat with Local and Network Data Grid</h2>
 Multi nodes Chat by UI and files interchange.
 <ul>
-<li>The backend is GPT4ALL 2.7.1.</li>
+<li>The backend is GPT4ALL 2.7.0.</li>
 <li>The replication of data in memory is using Apache Ignite 2.16.0</li>
 <li>The development is completely in Java 8 for old compatibility.</li>
 <li>The UI interface was developed in JavaSwing because the viewer has support for HTML and it runs in many JRE, it interface can be hide by configuration.</li>
@@ -18,12 +18,11 @@ Multi nodes Chat by UI and files interchange.
 </ul>
 Starting downloading from the folder Binaries 3 files: 
   <ol>
-<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.2.zip">MeshGrid_GPT-v1.1.2.zip</a></li>
-<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.2.z01">MeshGrid_GPT-v1.1.2.z01</a></li>
-<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.2.z02">MeshGrid_GPT-v1.1.2.z02</a></li>
-<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.2.z03">MeshGrid_GPT-v1.1.2.z03</a></li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.4.zip">MeshGrid_GPT-v1.1.4.zip</a></li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.4.z01">MeshGrid_GPT-v1.1.4.z01</a></li>
+<li><a href="https://github.com/mastercracker3d/MeshGrid-GPT/raw/main/binaries/MeshGrid_GPT-v1.1.4.z02">MeshGrid_GPT-v1.1.4.z02</a></li>
   </ol>
-  Uncompress MeshGrid_GPT-v1.1.2.zip in one or more Base folder.<br/>
+  Uncompress MeshGrid_GPT-v1.1.4.zip in one or more Base folder.<br/>
   Use JRE or JDK >=8<br/>
   <h2>run from terminal: java -jar MeshGrid_GPT.jar</h2><br/>
   <h2>Setup screen example</h2>
